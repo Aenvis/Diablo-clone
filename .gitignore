@@ -62,6 +62,9 @@
 *.VC.db
 *.VC.opendb
 
+# rider
+.idea/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
