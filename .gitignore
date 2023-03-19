@@ -63,7 +63,7 @@
 *.VC.opendb
 
 # rider
-.idea/
+.idea/*
 
 # Precompiled Assets
 SourceArt/**/*.png
